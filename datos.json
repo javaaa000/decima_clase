@@ -1,67 +1,74 @@
 [
     {
         "title": "Bolso",
-            "photo": "https://raw.githubusercontent.com/javaaa000/octava_clase/main/bolso.png",
-            "description": "Bolso cruzado inspirado en las costuras dobles de los jeans y con estampado en serigrafía hecha a mano en su bolsillo interior. Confeccionado con tela de algodón negra, hilo de algodón blanco y pintura de serigrafía blanca que brilla en la oscuridad.",
-            "nota":"7.0",
-            "ramo":"Lab. de Experimentación y Prototipado",
-            "modalidad": "Individual",
-    },{
-            "title": "Conmigo",
-            "photo": "https://raw.githubusercontent.com/javaaa000/octava_clase/main/conmigo.png",
-            "description": "Prenda calmante y ajustable para perros que se enfrentan a un viaje en bodega de un avión, destinado a simular el abrazo del dueño mediante la impregnación de su olor y ajustando el apriete. Consta de dos piezas desmontables, la primera el dueño tiene que utilizarla por al menos 8 horas y después se monta a la segunda pieza para que el perro pueda utilizar su totalidad.",
-            "nota":"6.4",
-            "ramo":"Taller 5",
-            "modalidad": "Grupal",
-    },{
-            "title": "Endemika",
-            "photo": "https://raw.githubusercontent.com/javaaa000/octava_clase/main/endemika.png",
-            "description": "Colección de 4 prendedores de ropa representativas de 4 especies endémicas presentes en el Parque Nacional Alerce Costero, construidos en base a láminas de cobre y restos de botellas plásticas. Destinada a generar conciencia de su flora única y aumentar el flujo turístico en el sector.",
-            "nota":"6.8",
-            "ramo":"Taller 4",
-            "modalidad": "Individual",
-    },{
-                    "title": "EVA-QUA",
-                    "photo": "https://raw.githubusercontent.com/javaaa000/octava_clase/main/evaqua.png",
-                    "description": "Alimento compuesto de gelatina y limón alto en nutrientes, destinado a generar un “reset” mental en momentos de estrés elevado repentino en personas embarazadas. Su packaging beneficia a su consumo eficaz, al “partir” por la mitad su envoltorio y generando 2 porciones. Situado en el mundo de Evangelion.",
-                    "nota":"6.4",
-                    "ramo":"Taller 2",
-                    "modalidad": "Grupal",
-    },{
-                    "title": "Killa",
-                    "photo": "https://raw.githubusercontent.com/javaaa000/octava_clase/main/killa.jpg",
-                    "description": "Lavalozas sin enjuague en base a saponinas de Quillay destinado a disminuir el gasto de agua al momento de lavar la loza para así contrarrestar los efectos de la sequía en Chile.",
-                    "nota":"6.8",
-                    "ramo":"Taller 5",
-                    "modalidad": "Grupal",
-    },{
-                    "title": "Paraciclismo",
-                    "photo": "https://raw.githubusercontent.com/javaaa000/octava_clase/main/paraciclismo.png",
-                    "description": "Folleto informativo sobre el deporte Paraciclismo de Pista de los Juego Panaparamericanos de Santiago 2023. Inspirado en la ecolocalización, estructura de la bicicleta y sensaciones de pasíon y concentración por parte de los deportistas.",
-                    "nota":"6.6",
-                    "ramo":"Percepción y Composición",
-                    "modalidad": "Individual",
-                },{
-                    "title": "Plego",
-                    "photo": "https://raw.githubusercontent.com/javaaa000/octava_clase/main/plego.png",
-                    "description": "Estante de dos caras construido en base a dos láminas de acero inoxidable y tableros de nogal. Destinado, en una de sus caras, a organizar y exhibir plantas de diferentes tamaños y a su vez, en su otra cara, a dedicarse al cuidado y mantención de dichas plantas.",
-                    "nota":"5.6",
-                    "ramo":"Taller 6",
-                    "modalidad": "Individual",
-                },{
-                    "title": "Reutiliza Conmigo",
-                    "photo": "https://raw.githubusercontent.com/javaaa000/octava_clase/main/reutilizaconmigo.png",
-                    "description": "App destinada a acercar y motivar a la comunidad de vecinos de Peñalolén a participar de proyectos de reciclaje, mediante incentivos, eventos y contacto con otros vecinos participantes dentro de la misma aplicación.",
-                    "nota":"6.8",
-                    "ramo":"Taller 4",
-                    "modalidad": "Grupal",
-                },{
-                    "title": "Superponiendo",
-                    "photo": "https://raw.githubusercontent.com/javaaa000/octava_clase/main/superponiendo.png",
-                    "description": "Book representativo de la experiencia y evolución personal a través del ramo Taller 4, mediante emulación de efecto risografía y uso de hojas de mica impresa se refleja el proceso en evolución y mezcla constante con ideas, vida personal y otros proyectos simultáneos.",
-                    "nota":"7.0",
-                    "ramo":"Taller 4",
-                    "modalidad": "Individual",
-                }
-
-            ]
+        "photo": "https://raw.githubusercontent.com/javaaa000/octava_clase/main/bolso.png",
+        "description": "Bolso cruzado inspirado en las costuras dobles de los jeans y con estampado en serigrafía hecha a mano en su bolsillo interior. Confeccionado con tela de algodón negra, hilo de algodón blanco y pintura de serigrafía blanca que brilla en la oscuridad.",
+        "nota": "7.0",
+        "ramo": "Lab. de Experimentación y Prototipado",
+        "modalidad": "Individual"
+    },
+    {
+        "title": "Conmigo",
+        "photo": "https://raw.githubusercontent.com/javaaa000/octava_clase/main/conmigo.png",
+        "description": "Prenda calmante y ajustable para perros que se enfrentan a un viaje en bodega de un avión, destinado a simular el abrazo del dueño mediante la impregnación de su olor y ajustando el apriete. Consta de dos piezas desmontables, la primera el dueño tiene que utilizarla por al menos 8 horas y después se monta a la segunda pieza para que el perro pueda utilizar su totalidad.",
+        "nota": "6.4",
+        "ramo": "Taller 5",
+        "modalidad": "Grupal"
+    },
+    {
+        "title": "Endemika",
+        "photo": "https://raw.githubusercontent.com/javaaa000/octava_clase/main/endemika.png",
+        "description": "Colección de 4 prendedores de ropa representativas de 4 especies endémicas presentes en el Parque Nacional Alerce Costero, construidos en base a láminas de cobre y restos de botellas plásticas. Destinada a generar conciencia de su flora única y aumentar el flujo turístico en el sector.",
+        "nota": "6.8",
+        "ramo": "Taller 4",
+        "modalidad": "Individual"
+    },
+    {
+        "title": "EVA-QUA",
+        "photo": "https://raw.githubusercontent.com/javaaa000/octava_clase/main/evaqua.png",
+        "description": "Alimento compuesto de gelatina y limón alto en nutrientes, destinado a generar un “reset” mental en momentos de estrés elevado repentino en personas embarazadas. Su packaging beneficia a su consumo eficaz, al “partir” por la mitad su envoltorio y generando 2 porciones. Situado en el mundo de Evangelion.",
+        "nota": "6.4",
+        "ramo": "Taller 2",
+        "modalidad": "Grupal"
+    },
+    {
+        "title": "Killa",
+        "photo": "https://raw.githubusercontent.com/javaaa000/octava_clase/main/killa.jpg",
+        "description": "Lavalozas sin enjuague en base a saponinas de Quillay destinado a disminuir el gasto de agua al momento de lavar la loza para así contrarrestar los efectos de la sequía en Chile.",
+        "nota": "6.8",
+        "ramo": "Taller 5",
+        "modalidad": "Grupal"
+    },
+    {
+        "title": "Paraciclismo",
+        "photo": "https://raw.githubusercontent.com/javaaa000/octava_clase/main/paraciclismo.png",
+        "description": "Folleto informativo sobre el deporte Paraciclismo de Pista de los Juego Panaparamericanos de Santiago 2023. Inspirado en la ecolocalización, estructura de la bicicleta y sensaciones de pasíon y concentración por parte de los deportistas.",
+        "nota": "6.6",
+        "ramo": "Percepción y Composición",
+        "modalidad": "Individual"
+    },
+    {
+        "title": "Plego",
+        "photo": "https://raw.githubusercontent.com/javaaa000/octava_clase/main/plego.png",
+        "description": "Estante de dos caras construido en base a dos láminas de acero inoxidable y tableros de nogal. Destinado, en una de sus caras, a organizar y exhibir plantas de diferentes tamaños y a su vez, en su otra cara, a dedicarse al cuidado y mantención de dichas plantas.",
+        "nota": "5.6",
+        "ramo": "Taller 6",
+        "modalidad": "Individual"
+    },
+    {
+        "title": "Reutiliza Conmigo",
+        "photo": "https://raw.githubusercontent.com/javaaa000/octava_clase/main/reutilizaconmigo.png",
+        "description": "App destinada a acercar y motivar a la comunidad de vecinos de Peñalolén a participar de proyectos de reciclaje, mediante incentivos, eventos y contacto con otros vecinos participantes dentro de la misma aplicación.",
+        "nota": "6.8",
+        "ramo": "Taller 4",
+        "modalidad": "Grupal"
+    },
+    {
+        "title": "Superponiendo",
+        "photo": "https://raw.githubusercontent.com/javaaa000/octava_clase/main/superponiendo.png",
+        "description": "Book representativo de la experiencia y evolución personal a través del ramo Taller 4, mediante emulación de efecto risografía y uso de hojas de mica impresa se refleja el proceso en evolución y mezcla constante con ideas, vida personal y otros proyectos simultáneos.",
+        "nota": "7.0",
+        "ramo": "Taller 4",
+        "modalidad": "Individual"
+    }
+]
