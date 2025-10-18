@@ -7,14 +7,14 @@
         "ramo": "Lab. de Experimentación y Prototipado",
         "modalidad": "Individual"
     },
-    {
+    /*{
         "title": "Conmigo",
         "photo": "https://raw.githubusercontent.com/javaaa000/octava_clase/main/conmigo.png",
         "description": "Prenda calmante y ajustable para perros que se enfrentan a un viaje en bodega de un avión, destinado a simular el abrazo del dueño mediante la impregnación de su olor y ajustando el apriete. Consta de dos piezas desmontables, la primera el dueño tiene que utilizarla por al menos 8 horas y después se monta a la segunda pieza para que el perro pueda utilizar su totalidad.",
         "nota": "6.4",
         "ramo": "Taller 5",
         "modalidad": "Grupal"
-    },
+    },*/
     {
         "title": "Endemika",
         "photo": "https://raw.githubusercontent.com/javaaa000/octava_clase/main/endemika.png",
@@ -23,14 +23,14 @@
         "ramo": "Taller 4",
         "modalidad": "Individual"
     },
-    {
+    /*{
         "title": "EVA-QUA",
         "photo": "https://raw.githubusercontent.com/javaaa000/octava_clase/main/evaqua.png",
         "description": "Alimento compuesto de gelatina y limón alto en nutrientes, destinado a generar un “reset” mental en momentos de estrés elevado repentino en personas embarazadas. Su packaging beneficia a su consumo eficaz, al “partir” por la mitad su envoltorio y generando 2 porciones. Situado en el mundo de Evangelion.",
         "nota": "6.4",
         "ramo": "Taller 2",
         "modalidad": "Grupal"
-    },
+    },*/
     {
         "title": "Killa",
         "photo": "https://raw.githubusercontent.com/javaaa000/octava_clase/main/killa.jpg",
@@ -72,3 +72,4 @@
         "modalidad": "Individual"
     }
 ]
+
