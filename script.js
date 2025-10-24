@@ -3,7 +3,8 @@ const portfolio = document.querySelector("#miau");
 async function datos(raw) {
     try {
         let consulta = await fetch(raw);
-        let trabajos = await consulta.json();
+        let resultado = await consulta.json();
+        let trabajos = resultado.data;
         console.log(trabajos);
         trabajos.forEach((trabajo) => {
             portfolio.innerHTML += `
@@ -30,5 +31,6 @@ async function datos(raw) {
         console.error("Error al cargar los datos:", error);
     }
 }
+
 
 datos("https://raw.githubusercontent.com/javaaa000/decima_clase/refs/heads/main/datos.json");
