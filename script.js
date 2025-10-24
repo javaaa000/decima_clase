@@ -33,4 +33,5 @@ async function datos(raw) {
 }
 
 
-datos("https://raw.githubusercontent.com/javaaa000/decima_clase/refs/heads/main/datos.json");
+datos("https://api.myjson.online/v1/records/216dc459-99d0-4904-a828-77fe8e6ffbc0");
+
